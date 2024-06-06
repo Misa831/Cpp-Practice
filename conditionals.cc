@@ -1,4 +1,8 @@
-#include <bits/stdc++.h>
+//#include <bits/stdc++.h>
+#include <iostream>
+#include <stdio.h>
+#include <string>
+
 
 using namespace std;
 

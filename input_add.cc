@@ -7,12 +7,10 @@ using namespace std;
 
 
 int main() {
-
-    int i;
-    int j; 
-    int k;
+    int i, j, k;
     int sum;
     
+    cout<< "enter 3 values: \n";
     cin>>i >> j >> k;
     sum = i + j + k;
     cout<<sum;
